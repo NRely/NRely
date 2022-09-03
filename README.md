@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Naomie Rely
 - 👀 I’m interested in programming
 - 🌱 I learned information technology at William E. Grady CTE High School
-- 💞️ I’m looking to collaborate on any projects liek making websites, games, or apps.
+- 💞️ I’m looking to collaborate on any projects like making websites, games, or apps.
 - 📫 How to reach me gmail, twitter, linkedin, indeed, and phone.
 
 <!---
